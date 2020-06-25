@@ -1,0 +1,7 @@
+site_name: Dogebuild {{plugin_name}}
+theme: readthedocs
+markdown_extensions:
+  - toc:
+      permalink: True
+nav:
+  - Quick start: index.md
